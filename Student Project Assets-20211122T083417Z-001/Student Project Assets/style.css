@@ -1,0 +1,20 @@
+body{
+    background-color: #B9B2DC;
+}
+
+#Score{
+    float: left;
+    font-size: larger;
+    margin-left: 10px;
+}
+
+#Timer{
+    float: right;
+    font-size: larger;
+    margin-right: 10px;
+}
+
+#Sketch{
+    font-size: larger;
+    color: blueviolet;
+}
